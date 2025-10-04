@@ -30,6 +30,3 @@ Or
   keywords={Feature extraction;Computational modeling;Convolutional neural networks;Transformers;Three-dimensional displays;Solid modeling;Hyperspectral imaging;Geology;Shape;Semantics;Hyperspectral image classification;state-space models;convolutional neural networks},
   doi={10.1109/TGRS.2025.3612566}}
 
-
-
-Note that the code is stinky and long.
